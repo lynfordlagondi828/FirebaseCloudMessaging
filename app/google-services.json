@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128737531278",
+    "firebase_url": "https://fir-module-16c6b.firebaseio.com",
+    "project_id": "fir-module-16c6b",
+    "storage_bucket": "fir-module-16c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128737531278:android:c5702cde196696e6",
+        "android_client_info": {
+          "package_name": "com.example.lynford.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128737531278-865krkbiecu9vhqldo1pgkhpap8u7n75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lynford.firebasecloudmessaging",
+            "certificate_hash": "97f8b549d28ae82cd48b4e8dadf78677ec532028"
+          }
+        },
+        {
+          "client_id": "128737531278-ho5f6uihdqlv6u7k8lu2gl5sjmf9iu8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJhVWXLz-P7AbW4N_ia9XSKF8qgP6RInY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128737531278-ho5f6uihdqlv6u7k8lu2gl5sjmf9iu8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
